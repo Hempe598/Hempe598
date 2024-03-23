@@ -17,7 +17,6 @@
 
 - 🤔 Estou em busca de oportunidades de estágio e de colaboração em projetos de desenvolvimento de jogos e web development
 - 📫 Como entrar em contato comigo: email: henriquevmarques27@gmail.com ou WPP: +55 91 980725677
-- 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidades: sou um grande nerd, gosto de jogar videogame, assistir filmes, séries e animes
   
 <h3>💻 Linguagens Mais Utilizadas</h3>
